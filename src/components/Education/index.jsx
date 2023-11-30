@@ -3,8 +3,6 @@ import React from 'react'
 import styled from 'styled-components'
 import Timeline from '@mui/lab/Timeline';
 import TimelineItem from '@mui/lab/TimelineItem';
-import TimelineSeparator from '@mui/lab/TimelineSeparator';
-import TimelineConnector from '@mui/lab/TimelineConnector';
 import TimelineContent from '@mui/lab/TimelineContent';
 import {Bio} from '../../data/Info.jsx';
 import EducationCard from '../Cards/EducationCard';

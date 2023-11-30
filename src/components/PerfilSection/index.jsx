@@ -112,7 +112,13 @@ const PerfilSection = () => {
 
                     <SocialMediaIcons>
                         <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].linkedin}
-                                         target="display"><FaLinkedin/></SocialMediaIcon>
+                                         target="display"><FaLinkedin
+                            style={{
+                                cursor: "pointer",
+                                width: '20px',
+                                height: '20px',
+                            }}
+                        /></SocialMediaIcon>
                         <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].ResumeLink}
                                          target="display"><CgBriefcase /><DIVText>{Bio[selectedLanguage].ResumeTitle}</DIVText></SocialMediaIcon>
                     </SocialMediaIcons>
