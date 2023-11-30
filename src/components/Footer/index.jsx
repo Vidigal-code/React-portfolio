@@ -1,8 +1,10 @@
 import styled from 'styled-components';
-import FacebookIcon from '@mui/icons-material/Facebook';
-import TwitterIcon from '@mui/icons-material/Twitter';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import InstagramIcon from '@mui/icons-material/Instagram';
+
+import { FaFacebookSquare } from "react-icons/fa";
+import { FaTwitterSquare } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
+import { FaInstagram } from "react-icons/fa";
+
 import {useLanguage} from "../../utils/Language.jsx";
 import {Bio} from '../../data/Info.jsx';
 import {useThemeLight} from "../../utils/ThemeLight.jsx";
@@ -130,10 +132,10 @@ function Footer() {
         <Nav>
             <FooterContainer>
                 <SocialMediaIcons>
-                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].facebook} target="display"><FacebookIcon /></SocialMediaIcon>
-                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].twitter} target="display"><TwitterIcon /></SocialMediaIcon>
-                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].linkedin} target="display"><LinkedInIcon /></SocialMediaIcon>
-                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].insta} target="display"><InstagramIcon /></SocialMediaIcon>
+                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].facebook} target="display"><FaFacebookSquare /></SocialMediaIcon>
+                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].twitter} target="display"><FaTwitterSquare /></SocialMediaIcon>
+                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].linkedin} target="display"><FaLinkedin /></SocialMediaIcon>
+                    <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].insta} target="display"><FaInstagram /></SocialMediaIcon>
                     <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].ResumeLink}
                                      target="display"><CgBriefcase /><DIVText>{Bio[selectedLanguage].ResumeTitle}</DIVText></SocialMediaIcon>
                 </SocialMediaIcons>

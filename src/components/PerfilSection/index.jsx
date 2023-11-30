@@ -18,9 +18,10 @@ import Photo from '../../images/home.gif'
 import Typewriter from 'typewriter-effect';
 import {Bio} from '../../data/Info.jsx';
 import {useLanguage} from '../../utils/Language.jsx';
-import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import styled from "styled-components";
 import {useThemeLight} from "../../utils/ThemeLight.jsx";
+
+import { FaLinkedin } from "react-icons/fa";
 import {CgBriefcase} from "react-icons/cg";
 
 const SocialMediaIcon = styled.a`
@@ -111,7 +112,7 @@ const PerfilSection = () => {
 
                     <SocialMediaIcons>
                         <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].linkedin}
-                                         target="display"><LinkedInIcon/></SocialMediaIcon>
+                                         target="display"><FaLinkedin/></SocialMediaIcon>
                         <SocialMediaIcon isDarkMode={isDarkMode} href={Bio[selectedLanguage].ResumeLink}
                                          target="display"><CgBriefcase /><DIVText>{Bio[selectedLanguage].ResumeTitle}</DIVText></SocialMediaIcon>
                     </SocialMediaIcons>
