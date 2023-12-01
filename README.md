@@ -1,5 +1,14 @@
 # React + Javascript -> TypeScript + Vite
 
+## React Portfolio - Tech:
+<p align="center">
+  <br/>
+<a href="https://vidigal-code.github.io/React-portfolio/" target="_blank">Click Here to view the Project</a>
+</p>
+<br/>
+<img align="center" src="https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/portofolio.png" alt="React-portfolio"/>
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
