@@ -86,18 +86,11 @@ const index = () => {
                 <Desc>
                     {Bio[selectedLanguage].experiences.desc}
                 </Desc>
-                <TimelineSection>
-                    <Timeline>
-                        {Bio[selectedLanguage].experiences.info.map((experience,index) => (
-                            <TimelineItem>
-                                <TimelineContent sx={{ py: '12px', px: 2 }}>
-                                    <ExperienceCard experience={experience}/>
-                                </TimelineContent>
-                            </TimelineItem>
-                        ))}
-                    </Timeline>
-
-                </TimelineSection>
+                {Bio[selectedLanguage].experiences.info.map((experience,index) => (
+                        <TimelineContent sx={{ py: '12px', px: 2 }}>
+                            <ExperienceCard experience={experience}/>
+                        </TimelineContent>
+                ))}
             </Wrapper>
         </Container>
     )
