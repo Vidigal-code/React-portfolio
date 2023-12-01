@@ -177,7 +177,7 @@ export const Bio = {
                             date: "7 anos",
                             category: "Web servers",
                             link: "https://apache.org/",
-                            image: "https://apache.org/favicons/apple-touch-icon-57x57.png",
+                            image: "https://apache.org/favicons/favicon.ico",
                         },
 
                         {
