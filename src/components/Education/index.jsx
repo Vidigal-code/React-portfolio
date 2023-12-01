@@ -15,6 +15,7 @@ const Container = styled.div`
   position: relative;
   z-index: 1;
   align-items: center;
+  margin-top: 30px;
 `;
 
 

@@ -73,7 +73,8 @@ const SkillsContainer = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 20px;
+  margin-bottom: 80px;
   gap: 30px;
   @media (max-width: 960px) {
     text-align: center;
