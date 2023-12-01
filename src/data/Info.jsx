@@ -773,7 +773,7 @@ export const Bio = {
         GithubLink: "https://github.com/Vidigal-code",
 
         ResumeTitle: "Currículo",
-        ResumeLink: "",
+        ResumeLink: "https://drive.google.com/file/d/15TvlJtoquDA8SpwteGkFJxnGUcP3FYyF/view",
         homelinkimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/Home.gif",
 
         linkedin: "https://www.linkedin.com/in/kauan-vidigal/",
@@ -1554,7 +1554,7 @@ export const Bio = {
         GithubLink: "https://github.com/Vidigal-code",
 
         ResumeTitle: "Resume",
-        ResumeLink: "",
+        ResumeLink: "https://drive.google.com/file/d/15TvlJtoquDA8SpwteGkFJxnGUcP3FYyF/view",
         homelinkimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/Home.gif",
 
         linkedin: "https://www.linkedin.com/in/kauan-vidigal/",
