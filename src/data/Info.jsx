@@ -758,6 +758,9 @@ export const Bio = {
             title:"Sobre",
             desc:
                 "Meu nome é Kauan Vidigal, tenho 20 anos sou de SP/Brasil",
+            linkheaderimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/c8f45e97e3d4549213aa29205881a3d76fb81434/src/images/header-img.svg",
+            bannerimg:"",
+            userimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/Vidigal.jpg",
 
         },
 
@@ -771,6 +774,7 @@ export const Bio = {
 
         ResumeTitle: "Currículo",
         ResumeLink: "",
+        homelinkimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/Home.gif",
 
         linkedin: "https://www.linkedin.com/in/kauan-vidigal/",
         twitter: "",
@@ -1535,6 +1539,9 @@ export const Bio = {
             title:"About",
             desc:
                 "My name is Kauan Vidigal, I'm 20 years old from SP/Brazil",
+            linkheaderimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/c8f45e97e3d4549213aa29205881a3d76fb81434/src/images/header-img.svg",
+            bannerimg:"",
+            userimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/Vidigal.jpg",
 
         },
 
@@ -1548,6 +1555,7 @@ export const Bio = {
 
         ResumeTitle: "Resume",
         ResumeLink: "",
+        homelinkimg:"https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/Home.gif",
 
         linkedin: "https://www.linkedin.com/in/kauan-vidigal/",
         twitter: "",

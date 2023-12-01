@@ -13,7 +13,7 @@ import {
     SubTitle,
     PLocation, PSubTitle
 } from './PerfilStyle.jsx'
-import Photo from '../../images/home.gif'
+//import Photo from "/images/home.gif";
 
 import Typewriter from 'typewriter-effect';
 import {Bio} from '../../data/Info.jsx';
@@ -127,7 +127,7 @@ const PerfilSection = () => {
 
 
                 <PerfilRightContainer id="Right">
-                    <Img src={Photo} alt="Vidigal"/>
+                    <Img src={Bio[selectedLanguage].homelinkimg} alt="Vidigal"/>
                 </PerfilRightContainer>
 
 

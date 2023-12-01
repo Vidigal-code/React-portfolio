@@ -1,8 +1,11 @@
 import React from 'react'
 import styled from "styled-components";
-import BannerImg from "../../images/banner-bg.png";
-import Photo from '../../images/Vidigal.jpg'
-import Header from '../../images/header-img.svg';
+
+//import BannerImg from "../../images/banner-bg.png";
+//import Photo from '../../images/Vidigal.jpg';
+//import Header from '../../images/header-img.svg';
+
+
 import {Bio} from "../../data/Info.jsx";
 import {useLanguage} from "../../utils/Language.jsx";
 
@@ -38,7 +41,7 @@ const AboutContainer = styled.div`
   display: flex;
   width: 95%;
   max-width: 600px;
-  background-image: url(${BannerImg});
+  background-image: url(https://raw.githubusercontent.com/Vidigal-code/React-portfolio/main/src/images/banner-bg.png);
   background-size: cover;
   background-position: center;
   justify-content: space-between;
@@ -185,13 +188,13 @@ const About = () => {
                 <Title>{Bio[selectedLanguage].about.title}</Title>
                 <AboutContainer>
                     <LeftContent>
-                        <ImgAbout src={Photo} alt="Vidigal"/>
+                        <ImgAbout src={Bio[selectedLanguage].about.userimg} alt="Vidigal"/>
                     </LeftContent>
                     <RightContent>
                         <Desc>
                             {Bio[selectedLanguage].about.desc}
                             <ImageContainer>
-                                <ImgHeader src={Header} alt=""/>
+                                <ImgHeader src={Bio[selectedLanguage].about.linkheaderimg} alt="Header"/>
                             </ImageContainer>
                         </Desc>
                     </RightContent>
