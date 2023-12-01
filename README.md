@@ -1,6 +1,6 @@
 # React + Javascript -> TypeScript + Vite
 
-## React Portfolio - Tech:
+## React Portfolio:
 <p align="center">
   <br/>
 <a href="https://vidigal-code.github.io/React-portfolio/" target="_blank">Click Here to view the Project</a>
