@@ -8,6 +8,7 @@ import React from 'react'
 import styled from 'styled-components'
 import {useThemeLight} from "../../utils/ThemeLight.jsx";
 import {useLanguage} from "../../utils/Language.jsx";
+import {Bio} from "../../data/Info.jsx";
 
 const Container = styled.div`
   width: 100%;
@@ -189,7 +190,10 @@ const Button = styled.a`
 
 
 const index = ({openModal, setOpenModal}) => {
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const {isDarkMode} = useThemeLight();
+    // eslint-disable-next-line react-hooks/rules-of-hooks
+    const {selectedLanguage} = useLanguage();
 
     const project = openModal?.project;
     return (
@@ -242,9 +246,8 @@ const index = ({openModal, setOpenModal}) => {
                         </>
                     )}
                     <ButtonGroup>
-                        <Button isDarkMode={isDarkMode} dull href={project?.github} target='new'>Ver código</Button>
-                        <Button isDarkMode={isDarkMode} href={project?.webapp} target='new'>Ver aplicação em
-                            direto</Button>
+                        <Button isDarkMode={isDarkMode} dull href={project?.github} target='new'>{Bio[selectedLanguage].projects.buttonGitHubTitle}</Button>
+                        <Button isDarkMode={isDarkMode} href={project?.webapp} target='new'>{Bio[selectedLanguage].projects.buttonWebappTitle}</Button>
                     </ButtonGroup>
                 </Wrapper>
             </Container>

@@ -80,6 +80,7 @@ const TimelineSection = styled.div`
 
 
 const index = () => {
+    // eslint-disable-next-line react-hooks/rules-of-hooks
     const {selectedLanguage} = useLanguage();
 
     return (
