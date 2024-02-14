@@ -402,7 +402,7 @@ export const Bio = {
                             date: "3 anos",
                             category: "PHP",
                             link: "https://laravel.com",
-                            image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg",
+                            image: "https://laravel.com/img/favicon/apple-touch-icon.png",
                         },
 
                         {
@@ -1180,7 +1180,7 @@ export const Bio = {
                             date: "3 years",
                             category: "PHP",
                             link: "https://laravel.com",
-                            image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg",
+                            image: "https://laravel.com/img/favicon/apple-touch-icon.png",
                         },
 
                         {
