@@ -668,7 +668,7 @@ export const Bio = {
             info: [
                 {
                     id: 0,
-                    img: "https://media.licdn.com/dms/image/D4D0BAQFXVD-G0bC6og/company-logo_200_200/0/1698864015822/estacio_logo?e=1709164800&v=beta&t=vRqmmvvsYKvdcLS4dFFzuU2WqiFlPz_ysU5Cyvz7CYo",
+                    img: "https://estacio.br/static/favicon-estacio.png",
                     school: "Estácio",
                     curseMoment: "Cursando - Universidade",
                     curseLink: "https://estacio.br/",
@@ -704,7 +704,7 @@ export const Bio = {
                 },
                 {
                     id: 2,
-                    img: "https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_200_200/0/1636138754252/facebook_logo?e=1709164800&v=beta&t=vXtoEUrenbRmLYXp8CHmRntX8juyN5kjnpM1VSBftyk",
+                    img: "https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/8PtnTFGuUVu.png",
                     school: "Meta",
                     curseMoment: "Programa de cursos integrados: Meta Front-End Developer",
                     curseLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/BFEF34UKVQD3",
@@ -721,7 +721,7 @@ export const Bio = {
                 },
                 {
                     id: 3,
-                    img: "https://media.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_200_200/0/1630580881875/duke_university_logo?e=1709164800&v=beta&t=cMNzBpsjAxWNzparYQ3yoq2EwRHSny-jg4ihxbD9qYc",
+                    img: "https://duke.edu/_themes/duke/img/favicon.ico",
                     school: "Duke University ",
                     curseMoment: "Fundamentos de programação Java e engenharia de software",
                     curseLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/4V8H29UZHPG7",
@@ -1415,7 +1415,7 @@ export const Bio = {
             info: [
                 {
                     id: 0,
-                    img: "https://media.licdn.com/dms/image/D4D0BAQFXVD-G0bC6og/company-logo_200_200/0/1698864015822/estacio_logo?e=1709164800&v=beta&t=vRqmmvvsYKvdcLS4dFFzuU2WqiFlPz_ysU5Cyvz7CYo",
+                    img: "https://estacio.br/static/favicon-estacio.png",
                     school: "Estácio",
                     curseMoment: "Studying - University",
                     curseLink: "https://estacio.br/",
@@ -1451,7 +1451,7 @@ export const Bio = {
                 },
                 {
                     id: 2,
-                    img: "https://media.licdn.com/dms/image/C4E0BAQFdNatYGiBelg/company-logo_200_200/0/1636138754252/facebook_logo?e=1709164800&v=beta&t=vXtoEUrenbRmLYXp8CHmRntX8juyN5kjnpM1VSBftyk",
+                    img: "https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/8PtnTFGuUVu.png",
                     school: "Meta",
                     curseMoment: "Integrated course program: Meta Front-End Developer",
                     curseLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/BFEF34UKVQD3",
@@ -1468,7 +1468,7 @@ export const Bio = {
                 },
                 {
                     id: 3,
-                    img: "https://media.licdn.com/dms/image/C4E0BAQGXW0yOhYBbCg/company-logo_200_200/0/1630580881875/duke_university_logo?e=1709164800&v=beta&t=cMNzBpsjAxWNzparYQ3yoq2EwRHSny-jg4ihxbD9qYc",
+                    img: "https://duke.edu/_themes/duke/img/favicon.ico",
                     school: "Duke University ",
                     curseMoment: "Java programming fundamentals and software engineering",
                     curseLink: "https://www.coursera.org/account/accomplishments/specialization/certificate/4V8H29UZHPG7",
