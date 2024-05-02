@@ -327,7 +327,7 @@ export const Bio = {
                             name: "Contabo",
                             date: "3 anos",
                             link: "https://contabo.com/en/",
-                            image: "https://contabo.com/assets/favicon.png",
+                            image: "https://contabo.com/assets/apple-touch-icon.png",
                         },
 
                         {
@@ -1105,7 +1105,7 @@ export const Bio = {
                             name: "Contabo",
                             date: "3 years",
                             link: "https://contabo.com/en/",
-                            image: "https://contabo.com/assets/favicon.png",
+                            image: "https://contabo.com/assets/apple-touch-icon.png",
                         },
 
                         {
