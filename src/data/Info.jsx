@@ -418,7 +418,7 @@ export const Bio = {
                             date: "2 anos",
                             category: "React, Vue",
                             link: "https://nextjs.org",
-                            image: "https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png",
+                            image: "https://nextjs.org/favicon.ico",
                         },
 
                         {
@@ -1196,7 +1196,7 @@ export const Bio = {
                             date: "2 years",
                             category: "React, Vue",
                             link: "https://nextjs.org",
-                            image: "https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png",
+                            image: "https://nextjs.org/favicon.ico",
                         },
 
                         {
