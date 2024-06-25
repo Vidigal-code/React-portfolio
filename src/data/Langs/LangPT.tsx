@@ -528,13 +528,18 @@ export const LangPT = {
             link: "https://www.virtualbox.org/",
             image: "https://www.virtualbox.org/favicon.ico",
           },
-
           {
             name: "NaviCat",
             date: "5 anos",
             link: "https://www.navicat.com/en",
             image:
               "https://www.navicat.com/images/Navicat_16_Premium_win_256x256.ico",
+          },
+         {
+            name: "Heidisql",
+            date: "4 anos",
+            link: "https://www.heidisql.com/",
+            image: "https://th.bing.com/th?id=OSAAS.0CD582020C5740D7C7784E3D5403053C&w=72&h=72&c=17&rs=1&o=6&pid=5.1",
           },
         ],
       },

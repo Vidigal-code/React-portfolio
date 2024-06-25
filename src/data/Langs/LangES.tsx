@@ -536,6 +536,12 @@ export const LangES = {
             image:
               "https://www.navicat.com/images/Navicat_16_Premium_win_256x256.ico",
           },
+          {
+            name: "Heidisql",
+            date: "4 años",
+            link: "https://www.heidisql.com/",
+            image: "https://th.bing.com/th?id=OSAAS.0CD582020C5740D7C7784E3D5403053C&w=72&h=72&c=17&rs=1&o=6&pid=5.1",
+          },
         ],
       },
     ],

@@ -225,6 +225,7 @@ export const MobileMenuButton = styled.a<{ $isdarkmode: boolean }>`
   text-decoration: none;
   font-size: 16px;
   transition: all 0.6s ease-in-out;
+  overflow-y: auto; 
 
   &:hover {
     background: ${({ theme }) => theme.primary};
@@ -327,7 +328,7 @@ export const StyledSelect = styled.select<{ $isdarkmode: boolean }>`
   justify-content: center;
   display: flex;
   align-items: center;
-  margin-left: 5px;
+  margin: 2px 5px;
   cursor: pointer;
   border-radius: 2px;
   height: 45px;
@@ -342,7 +343,7 @@ export const StyledSelect = styled.select<{ $isdarkmode: boolean }>`
   float: left;
   border: 1.8px solid ${({ $isdarkmode }) => ($isdarkmode ? "#000" : "#fff")};
 
-  padding: 10px 20px;
+  padding: 5px 20px;
   font-weight: 500;
   font-size: 16px;
   transition: all 0.6s ease-in-out;
