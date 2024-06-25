@@ -285,7 +285,8 @@ export const StyledButton = styled.button<{ $isdarkmode: boolean }>`
   text-decoration: none;
   border: 1.8px solid ${({ $isdarkmode }) => ($isdarkmode ? "#000" : "#fff")};
 
-  padding: 10px 20px;
+ 
+  padding: 5px 20px;
   font-weight: 500;
   font-size: 16px;
   transition: all 0.6s ease-in-out;
@@ -328,7 +329,7 @@ export const StyledSelect = styled.select<{ $isdarkmode: boolean }>`
   justify-content: center;
   display: flex;
   align-items: center;
-  margin: 2px 5px;
+  margin: 10px 5px;
   cursor: pointer;
   border-radius: 2px;
   height: 45px;
