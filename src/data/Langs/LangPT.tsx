@@ -596,7 +596,7 @@ export const LangPT = {
     buttonGitHubTitle: "Ver código",
     buttonWebappTitle: "Ver aplicação em direto",
     title: "Projetos",
-    desc: "Já trabalhei numa vasta gama de projectos. Desde aplicações web a aplicações android. Aqui estão alguns dos meus projectos.",
+    desc: "Eu trabalhei em uma ampla gama de projetos, Abaixo estão alguns dos principais projetos que realizei:",
     info: [
       {
         id: 1,

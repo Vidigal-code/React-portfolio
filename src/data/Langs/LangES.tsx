@@ -684,10 +684,10 @@ export const LangES = {
       ProjectWeb: "Web",
       Bootcamp: "Bootcamp",
     },
-    buttonGitHubTitle: "See code",
-    buttonWebappTitle: "See the application live",
+    buttonGitHubTitle: "Ver codigo",
+    buttonWebappTitle: "Ver la aplicación en vivo",
     title: "Projects",
-    desc: "I've worked on a wide range of projects. From web applications to android applications. Here are some of my projects.",
+    desc: "He trabajado en una amplia gama de proyectos, a continuación se muestran algunos de los principales proyectos que he emprendido:",
     info: [
       {
         id: 1,
