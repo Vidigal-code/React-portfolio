@@ -63,7 +63,6 @@ export const Desc = styled.div`
 export const ToggleButtonGroup = styled.a`
   display: flex;
   border: 1.5px solid ${({ theme }) => theme.primary};
-  border-radius: 4px;
   color: ${({ theme }) => theme.primary};
   font-size: 16px;
   font-weight: 500;
@@ -87,14 +86,14 @@ export const ToggleButton = styled.div<{ active: boolean }>`
 
   @media (max-width: 768px) {
     padding: 6px 8px;
-    border-radius: 4px;
   }
 `;
 
 
 export const Divider = styled.div`
-  width: 1.5px;
+  width: 1.2px;
   background: ${({ theme }) => theme.primary};
+  opacity: 0.8;
 `;
 
 export const CardContainer = styled.div`

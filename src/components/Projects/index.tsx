@@ -61,6 +61,16 @@ const Index: React.FC<IndexProjectProps> = ({ openModal, setOpenModal }) => {
           >
             {selectedBio?.projects.nav.Bootcamp}
           </div>
+         <Divider />
+          <div
+            className={`button-menu${toggle === "Web" ? "-active" : ""}`}
+            onClick={() => {
+              handleToggle("Web");
+              setActive(!active);
+            }}
+          >
+            {selectedBio?.projects.nav.ProjectWeb}
+          </div>
         </ToggleButtonGroup>
         <CardContainer>
           {projectToDisplay?.map((project, index) => (

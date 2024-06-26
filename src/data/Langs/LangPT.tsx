@@ -614,10 +614,29 @@ export const LangPT = {
           "Javascript",
           "Css",
         ],
-        category: "All",
+        category: "Bootcamp",
         github: "https://github.com/Vidigal-code/Bootcamp-Orange-Tech",
         webapp:
           "https://vidigal-code.github.io/Bootcamp-Orange-Tech/Pokedex-OrangeTech/index.html",
+      },
+     {
+        id: 2,
+        title: "Dio-markdown",
+        date: "",
+        description:
+          "Este projeto foi desenvolvido usando Vite, TypeScript, TSX e SCSS, e consiste em um editor de markdown simples para GitHub. Ele foi criado como parte de um curso na plataforma dio.me com o objetivo de testar e explorar a criatividade no desenvolvimento de aplicações web. Sinta-se à vontade para usar e adaptar conforme necessário.",
+        image:
+          "https://github.com/Vidigal-code/dio-markdown/raw/main/src/assets/dio-markdown-example.gif",
+        tags: [
+          "React.Js",
+          "Node.Js",
+          "Typescript",
+          "Css",
+          "Scss",
+        ],
+        category: "Web",
+        github: "https://github.com/Vidigal-code/dio-markdown",
+        webapp: "https://vidigal-code.github.io/dio-markdown/",
       },
     ],
   },
