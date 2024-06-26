@@ -1810,23 +1810,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
   @media (max-width: 768px) {
     font-size: 12px;
   }
-`;C.div`
-  padding: 8px 18px;
-  cursor: pointer;
-  background-color: ${({active:e})=>e?"#000":"none"};
-  color: ${({active:e,theme:t})=>e?"white":t.primary};
-  transition: background-color 0.3s ease, color 0.3s ease;
-
-  &:hover {
-    background-color: ${({theme:e})=>e.primary};
-    color: #fff;
-  }
-
-  @media (max-width: 768px) {
-    padding: 6px 8px;
-    border-radius: 4px;
-  }
-`;const Hf=C.div`
+`,Hf=C.div`
   width: 1.2px;
   background: ${({theme:e})=>e.primary};
   opacity: 0.8;
