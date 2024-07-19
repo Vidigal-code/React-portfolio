@@ -148,7 +148,7 @@ projetos.
 *26 de março de 2023, concluído*
 <br />
 <br />
-*Java Programming and Software Engineering Fundamentals*
+*Programa de cursos integrados: Meta Front-End Developer*
 <br />
 <br />
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BFEF34UKVQD3/CERTIFICATE_LANDING_PAGE~BFEF34UKVQD3.jpeg" alt="META">
