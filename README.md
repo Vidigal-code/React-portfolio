@@ -6,7 +6,7 @@
 
 ## Exemplo / Example
 
-[Click Here to view the GitHub Repository](https://vidigal-code.github.io/dio-markdown/)
+[Click Here to view the GitHub Repository](https://vidigal-code.github.io/React-portfolio/)
 
 **Dark**
 
