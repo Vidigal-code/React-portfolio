@@ -2,11 +2,11 @@
 
 **React + Typescript**
 
-<p>Closed version - 2.0.0</p>
+<p>React-portfolio - Closed version - 2.0.0</p>
 
 ## Exemplo / Example
 
-[Click Here to view the GitHub Repository](https://vidigal-code.github.io/React-portfolio/)
+[Click Here to view the Project](https://vidigal-code.github.io/React-portfolio/)
 
 **Dark**
 
