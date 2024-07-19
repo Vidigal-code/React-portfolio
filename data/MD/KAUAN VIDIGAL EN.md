@@ -153,7 +153,7 @@ I am open to collaborations and challenges that boost my professional growth and
 <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~BFEF34UKVQD3/CERTIFICATE_LANDING_PAGE~BFEF34UKVQD3.jpeg" alt="META">
 <br />
 <br />
-**[[View certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BFEF34UKVQD3)**
+**[View certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/BFEF34UKVQD3)**
 <br />
 **[See organization](https://www.coursera.org/professional-certificates/meta-front-end-developer?)**
 <p>This 9-course program prepares students for an entry-level career as a front-end developer.</p>
