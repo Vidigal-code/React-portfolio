@@ -2,18 +2,12 @@
 
 ### Sobre Mim
 
-Meu nome é Kauan Vidigal, sou um desenvolvedor Full-Stack completo e autodidata, atualmente cursando Ciência da
-Computação. Desde 2014, foco em programação com ênfase em Java e Programação Orientada a Objetos.
+Sou desenvolvedor Full-Stack e estudante de Ciência da Computação com experiência desde 2014, especializado em Java e Programação Orientada a Objetos. Ofereço consultoria de TI e desenvolvimento de soluções personalizadas utilizando PHP com Laravel no back-end e React ou Vue.js com Vite no front-end.
 
-Como autônomo, ofereço consultoria de TI e desenvolvimento de software e sites personalizados, utilizando PHP com
-Laravel para back-end e React ou Vue.js com Vite para front-end. Tenho experiência na configuração de servidores web (
-Apache, Nginx) em VPS, segurança avançada (SSL/TLS, firewall), e otimização de performance.
+Tenho experiência na configuração de servidores web (Apache, Nginx) em VPS, segurança avançada (SSL/TLS, firewall) e otimização de performance. Sou proficiente em bancos de dados MySQL e MariaDB, gerenciamento de DNS e desenvolvimento de APIs escaláveis. Adoto práticas de DevOps para garantir eficiência e segurança.
 
-Sou proficiente em bancos de dados MySQL e MariaDB, gerenciamento de DNS, e desenvolvimento de APIs robustas e
-escaláveis. Adoto práticas de DevOps para assegurar a eficiência e segurança nos projetos.
+Estou aberto a colaborações e desafios que promovam meu crescimento profissional e contribuam para o sucesso dos projetos.
 
-Estou aberto a colaborações e desafios que impulsionem meu crescimento profissional e contribuam para o sucesso dos
-projetos.
 <div style="text-align: left;">
 
 ### Habilidades
