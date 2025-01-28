@@ -100,10 +100,7 @@
  <br/>
 
 <p align="center">
-<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank">
-  <img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2" alt="GitRoll Profile Badge" style="width: 400px; height: auto;" />
-</a>
-</p>
+<a href="https://gitroll.io/profile/uY6OqgUA63rNk53a0rqTp1fqDuMH2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uY6OqgUA63rNk53a0rqTp1fqDuMH2?theme=dark" alt="GitRoll Profile Badge" style="width: 400px; height: auto;"/></a>
 </div>
 
  <br/>
@@ -168,7 +165,7 @@
 <a href="https://www.oracle.com/br/cloud/" target="_blank"><img align="center" alt="Vidigal-Oracle" height="50" width="50" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></a>
 #
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fantasy+&size=30&pause=1000&color=2AA889&multiline=true&width=445&lines=Hosting%3A)](https://git.io/typing-svg)
-<a href="https://contabo.com/en/" target="_blank"><img align="center" alt="Vidigal-Contabo" height="50" width="50" src="https://camo.githubusercontent.com/8337e47dc029937179e9ba447c771bd688bde9a3511b760e6fe217e8453beeef/68747470733a2f2f636f6e7461626f2e636f6d2f6173736574732f6170706c652d746f7563682d69636f6e2e706e67"></a>
+<a href="https://contabo.com/en/" target="_blank"><img align="center" alt="Vidigal-Contabo" height="50" width="50" src="https://contabo.com/assets/apple-touch-icon.png"></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img align="center" alt="Vidigal-Cloudflare" height="50" width="50" src="https://cf-assets.www.cloudflare.com/slt3lc6tev37/53qCYhQbir5WtIU0VDWESo/954a48bfb17f429acf469e5f14345d83/unnamed-3.png"></a>
 #
 

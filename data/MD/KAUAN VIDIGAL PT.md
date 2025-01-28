@@ -230,9 +230,9 @@ Sou desenvolvedor Full-Stack, com experiência em back-end (Java e PHP) e front-
 
 - **Dio-markdown**
   <br />
-  **[Ver código](https://vidigal-code.github.io/dio-markdown/)**
+  **[Ver código](https://github.com/Vidigal-code/dio-markdown/)**
   </br>
-  **[Ver aplicação em direto](https://github.com/Vidigal-code/dio-markdown/)**
+  **[Ver aplicação em direto](https://vidigal-code.github.io/dio-markdown/)**
   <p>
     Este projeto foi desenvolvido usando Vite, TypeScript, TSX e SCSS, e consiste em um editor de markdown simples para GitHub. Ele foi criado como parte de um curso na plataforma dio.me com o objetivo de testar e explorar a criatividade no desenvolvimento de aplicações web. Sinta-se à vontade para usar e adaptar conforme necessário.
   </p>
