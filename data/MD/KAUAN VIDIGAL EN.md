@@ -230,6 +230,20 @@ I am a Full-Stack developer, with experience in back-end (Java and PHP) and fron
   **[View live application](https://libretranslate.com/)**
   <p>An open-source translation plugin for browsers allows real-time translation of web pages. It supports multiple languages ​​and can automatically detect and translate text into the user’s preferred language. Being open-source, it is continually improved by the community to stay up-to-date and optimized.</p>
 
+- **scheduling-python**
+  <br />
+  **[View code](https://github.com/Vidigal-code/scheduling-python)**
+  </br>
+  **[View live application](https://github.com/Vidigal-code/scheduling-python)**
+  <p>The Appointment Scheduler project is a web application developed in Flask to facilitate appointment scheduling. The goal is to simplify the scheduling process, improve the user experience, and increase operational efficiency for businesses such as clinics and service centers.</p>
+
+- **scheduling-php**
+  <br />
+  **[View code](https://github.com/Vidigal-code/scheduling-php)**
+  </br>
+  **[View live application](https://github.com/Vidigal-code/scheduling-php)**
+  <p>The Scheduling PHP project is a web application designed to facilitate the appointment scheduling process for clients and service providers. The goal is to simplify scheduling, improve user experience, and increase operational efficiency for businesses such as clinics and service centers.</p>
+
 
 ### Contact
 

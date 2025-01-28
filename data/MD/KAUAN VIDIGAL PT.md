@@ -244,6 +244,21 @@ Sou desenvolvedor Full-Stack, com experiência em back-end (Java e PHP) e front-
   **[Ver aplicação em direto](https://libretranslate.com/)**
   <p>Um plugin de tradução de código aberto para navegadores permite a tradução em tempo real de páginas da web. Ele suporta vários idiomas e pode detectar e traduzir automaticamente o texto para o idioma preferido do usuário. Sendo de código aberto, ele é continuamente melhorado pela comunidade para se manter atualizado e otimizado.</p>
 
+- **scheduling-python**
+  <br />
+  **[Ver código](https://github.com/Vidigal-code/scheduling-python)**
+  </br>
+  **[Ver aplicação em direto](https://github.com/Vidigal-code/scheduling-python)**
+  <p>O projeto Appointment Scheduler é uma aplicação web desenvolvida em Flask para facilitar o agendamento de compromissos. O objetivo é simplificar o processo de agendamento, melhorar a experiência do usuário e aumentar a eficiência operacional para negócios como clínicas e centros de serviços.</p>
+
+- **scheduling-php**
+  <br />
+  **[Ver código](https://github.com/Vidigal-code/scheduling-php)**
+  </br>
+  **[Ver aplicação em direto](https://github.com/Vidigal-code/scheduling-php)**
+  <p>O projeto Scheduling PHP é uma aplicação web projetada para facilitar o processo de agendamento de compromissos para clientes e prestadores de serviços. O objetivo é simplificar o agendamento, melhorar a experiência do usuário e aumentar a eficiência operacional para negócios como clínicas e centros de serviços.</p>
+
+
 ### Contato
 
 - **E-mail:** <a href="mailto:kauanvidigalcontato@gmail.com">kauanvidigalcontato@gmail.com</a>
