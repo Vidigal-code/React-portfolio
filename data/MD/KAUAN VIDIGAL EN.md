@@ -223,6 +223,14 @@ I am a Full-Stack developer, with experience in back-end (Java and PHP) and fron
     This project was developed using Vite, TypeScript, TSX and SCSS, and consists of a simple markdown editor for GitHub. It was created as part of a course on the dio.me platform with the aim of testing and exploring creativity in the development of web applications. Feel free to use and adapt as needed.
   </p>
 
+- **BPT-Pro**
+  <br />
+  **[View code](https://github.com/Vidigal-code/BPT-Pro)**
+  </br>
+  **[View live application](https://libretranslate.com/)**
+  <p>An open-source translation plugin for browsers allows real-time translation of web pages. It supports multiple languages ​​and can automatically detect and translate text into the user’s preferred language. Being open-source, it is continually improved by the community to stay up-to-date and optimized.</p>
+
+
 ### Contact
 
 - **E-mail:** <a href="mailto:kauanvidigalcontato@gmail.com">kauanvidigalcontato@gmail.com</a>
