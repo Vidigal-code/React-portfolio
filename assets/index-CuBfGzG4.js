@@ -197,9 +197,9 @@ Error generating stack: `+d.message+`
         color: ${({$isdarkmode:e})=>e?"#000":"#fff"};
     }
 
-    &:active {
+   /* &:active {
         border-bottom: 2px solid ${({$isdarkmode:e})=>e?"#000":"#fff"};
-    }
+    }*/
 `,Z6=W.span`
     margin-left: 4px;
 `,cj=W.button`
