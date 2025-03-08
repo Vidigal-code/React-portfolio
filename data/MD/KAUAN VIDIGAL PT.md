@@ -237,12 +237,12 @@ Sou desenvolvedor Full-Stack, com experiência em back-end (Java e PHP) e front-
     Este projeto foi desenvolvido usando Vite, TypeScript, TSX e SCSS, e consiste em um editor de markdown simples para GitHub. Ele foi criado como parte de um curso na plataforma dio.me com o objetivo de testar e explorar a criatividade no desenvolvimento de aplicações web. Sinta-se à vontade para usar e adaptar conforme necessário.
   </p>
 
-- **BPT-Pro**
+- **BPT-Pro-Libretranslate**
   <br />
-  **[Ver código](https://github.com/Vidigal-code/BPT-Pro)**
+  **[Ver código](https://github.com/Vidigal-code/BPT-Pro-Libretranslate)**
   </br>
   **[Ver aplicação em direto](https://libretranslate.com/)**
-  <p>Um plugin de tradução de código aberto para navegadores permite a tradução em tempo real de páginas da web. Ele suporta vários idiomas e pode detectar e traduzir automaticamente o texto para o idioma preferido do usuário. Sendo de código aberto, ele é continuamente melhorado pela comunidade para se manter atualizado e otimizado.</p>
+  <p>Um plugin de tradução de navegador de código aberto oferece tradução em tempo real, suporta vários idiomas e detecta e traduz automaticamente o texto para o idioma preferido do usuário. Ele usa a API LibreTranslate e é continuamente melhorado pela comunidade para se manter atualizado e otimizado.</p>
 
 - **scheduling-python**
   <br />
