@@ -244,6 +244,13 @@ I am a Full-Stack developer, with experience in back-end (Java and PHP) and fron
   **[View live application](https://github.com/Vidigal-code/scheduling-php)**
   <p>The Scheduling PHP project is a web application designed to facilitate the appointment scheduling process for clients and service providers. The goal is to simplify scheduling, improve user experience, and increase operational efficiency for businesses such as clinics and service centers.</p>
 
+- **libretranslate-java**
+  <br />
+  **[View code](https://github.com/Vidigal-code/libretranslate-java)**
+  </br>
+  **[View live application](https://github.com/Vidigal-code/libretranslate-java)**
+  <p>Java client for the LibreTranslate API featuring advanced capabilities like rate limiting, caching, and comprehensive monitoring. JDK-17</p>
+
 
 ### Contact
 
