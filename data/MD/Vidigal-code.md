@@ -9,8 +9,9 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=Rect&color=0d1117&height=70&section=header&text=Vidigal-code&animation=scaleIn&fontSize=30&fontColor=2aa889"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2aa889&size=40&center=true&vCenter=true&width=1000&lines=Hello,+I+am+Kauan+Vidigal;I+am+Developer+Full-Stack;Welcome+To+My+Profile!)](https://git.io/typing-svg)
-
+<div class="image-container">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=2aa889&amp;size=40&amp;center=true&amp;vCenter=true&amp;width=1000&amp;lines=Hello,+I+am+Kauan+Vidigal;I+am+Developer+Full-Stack;Welcome+To+My+Profile!" alt="Typing SVG" />
+</div>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=100:2aa889,5:2aa889&height=70&section=header"/>
