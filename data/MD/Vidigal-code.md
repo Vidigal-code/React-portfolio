@@ -64,13 +64,13 @@
   </br>
 
 - >``📲Link to my portfolio`` : { [Portfolio](https://vidigal-code.github.io/React-portfolio/) }
->
-- >``💾Link to my projects`` : { [Projects](https://github.com/Vidigal-code?tab=repositories&q=&type=public&language=&sort=) }
->
-- >``💪Certificates link`` : { [Certificates](https://github.com/Vidigal-code/Certificates) }
->
+  >
+- >``💾Link to my projects`` : { [Projects](https://vidigal-code.github.io/React-portfolio/#projects?lang=en) }
+  >
+- >``💪Certificates link`` : { [Certificates](https://vidigal-code.github.io/React-portfolio/#courses) }
+  >
 - >``👨🏻‍💻 Another account`` : { [Account](https://github.com/SoftVidigal) }
->
+  >
 </details>
 </p>
 
