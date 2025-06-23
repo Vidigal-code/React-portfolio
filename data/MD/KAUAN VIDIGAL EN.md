@@ -434,12 +434,12 @@ Creation and management of continuous integration and continuous deployment pipe
   **[View live application](https://github.com/Vidigal-code/scheduling-php)**
   <p>The Scheduling PHP project is a web application designed to facilitate the appointment scheduling process for clients and service providers. The goal is to simplify scheduling, improve user experience, and increase operational efficiency for businesses such as clinics and service centers.</p>
 
-- **libretranslate-java**
+- **libretranslate-simple-java**
   <br />
-  **[View code](https://github.com/Vidigal-code/libretranslate-java)**
+  **[View code](https://github.com/Vidigal-code/libretranslate-simple-java)**
   </br>
-  **[View live application](https://github.com/Vidigal-code/libretranslate-java)**
-  <p>Java client for the LibreTranslate API featuring advanced capabilities like rate limiting, caching, and comprehensive monitoring. JDK-17</p>
+  **[View live application](https://github.com/Vidigal-code/libretranslate-simple-java)**
+  <p>Java library for fast and reliable integration with the LibreTranslate API. Includes synchronous/asynchronous translation, batch processing, language checks, rate limiting and circuit breaker. Built for scalability and ease of use (JDK 21+).</p>
 
 
 ### Contact
