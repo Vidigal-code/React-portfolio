@@ -1,15 +1,10 @@
 # Kauan Vidigal
 
-**Engenheiro de Software | Desenvolvedor Full Stack | Especialista em Desenvolvimento Web**
+**Desenvolvedor de Software | Full Stack Developer | Especialista em Desenvolvimento Web | Bacharel em Ciência da Computação | Java | SQL / NoSQL**
 
 ### Sobre Mim
 
-Desenvolvedor Full Stack com sólida experiência em Java, PHP, Node.js, Python e TypeScript.
-Especialista em desenvolvimento de APIs RESTful escaláveis, adotando padrões MVC e práticas de testes automatizados com TDD (JUnit, pytest, Jest, PHPUnit).
-Profundo conhecimento em ORMs (JPA, Hibernate, TypeORM, SQLAlchemy, MongoEngine) e configuração de servidores web (Apache, Nginx, IIS).
-Experiência robusta em bancos de dados relacionais (MySQL, PostgreSQL, Oracle Database) e não relacionais (MongoDB).
-Vivência com servidores VPS, ambientes Linux e práticas DevOps aplicadas à infraestrutura em nuvem (AWS, Google Cloud, Oracle Cloud, Azure), com containerização (Docker), orquestração (Kubernetes) e pipelines de CI/CD automatizados.
-Forte domínio em Programação Orientada a Objetos, princípios SOLID, Clean Code e frameworks modernos como NestJS, Spring Boot, Flask e Django.
+Desenvolvedor Full Stack com experiência em Java, PHP, Node.js, Python e TypeScript. Especialista em APIs RESTful escaláveis, testes MVC/TDD (JUnit, pytest, Jest, PHPUnit) e ORMs como JPA, Hibernate, TypeORM, SQLAlchemy, MongoEngine e Eloquent (Laravel). Atua com servidores Linux, bancos relacionais e NoSQL, além de infraestrutura em nuvem (AWS, GCP, Azure, Oracle Cloud), Docker, Kubernetes e CI/CD. Domínio em POO, SOLID, Clean Code e frameworks como NestJS, Spring Boot, Flask, Django e FastAPI.
 
 <div style="text-align: left;">
 

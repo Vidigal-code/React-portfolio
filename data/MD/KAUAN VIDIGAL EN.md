@@ -1,15 +1,10 @@
 # Kauan Vidigal
 
-**Software Engineer | Full Stack Developer | Web Development Specialist**
+**Software Developer | Full Stack Developer | Web Development Specialist | Bachelor of Computer Science | Java | SQL / NoSQL**
 
 ### About me
 
-Full Stack Developer with solid experience in Java, PHP, Node.js, Python and TypeScript.
-Specialist in developing scalable RESTful APIs, adopting MVC patterns and automated testing practices with TDD (JUnit, pytest, Jest, PHPUnit).
-Deep knowledge of ORMs (JPA, Hibernate, TypeORM, SQLAlchemy, MongoEngine) and web server configuration (Apache, Nginx, IIS).
-Strong experience in relational (MySQL, PostgreSQL, Oracle Database) and non-relational (MongoDB) databases.
-Experience with VPS servers, Linux environments and DevOps practices applied to cloud infrastructure (AWS, Google Cloud, Oracle Cloud, Azure), with containerization (Docker), orchestration (Kubernetes) and automated CI/CD pipelines.
-Strong command of Object Oriented Programming, SOLID principles, Clean Code and modern frameworks such as NestJS, Spring Boot, Flask and Django.
+Full Stack Developer with experience in Java, PHP, Node.js, Python and TypeScript. Expert in scalable RESTful APIs, MVC/TDD testing (JUnit, pytest, Jest, PHPUnit) and ORMs such as JPA, Hibernate, TypeORM, SQLAlchemy, MongoEngine and Eloquent (Laravel). Works with Linux servers, relational and NoSQL databases, as well as cloud infrastructure (AWS, GCP, Azure, Oracle Cloud), Docker, Kubernetes and CI/CD. Proficiency in OOP, SOLID, Clean Code and frameworks such as NestJS, Spring Boot, Flask and Django.
 
 <div style="text-align: left;">
 
