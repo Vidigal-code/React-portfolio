@@ -1,6 +1,6 @@
 # Kauan Vidigal
 
-**Desenvolvedor de Software | Full Stack Developer | Especialista em Desenvolvimento Web | Bacharel em Ciência da Computação | Java | SQL / NoSQL**
+**Desenvolvedor de Software | Full Stack Developer | Especialista em Desenvolvimento Web | Bacharel em Ciência da Computação | Java | Spring Boot (MVC) | SQL & NoSQL**
 
 ### Sobre Mim
 

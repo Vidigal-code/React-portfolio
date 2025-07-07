@@ -1,6 +1,6 @@
 # Kauan Vidigal
 
-**Software Developer | Full Stack Developer | Web Development Specialist | Bachelor of Computer Science | Java | SQL / NoSQL**
+**Software Developer | Full Stack Developer | Web Development Specialist | Bachelor's Degree in Computer Science | Java | Spring Boot (MVC) | SQL & NoSQL**
 
 ### About me
 
