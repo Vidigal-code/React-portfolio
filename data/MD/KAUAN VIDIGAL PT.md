@@ -1,10 +1,10 @@
 # Kauan Vidigal
 
-**Desenvolvedor de Software | Full Stack Developer | Especialista em Desenvolvimento Web | Bacharel em Ciência da Computação | Java | Spring Boot (MVC) | SQL & NoSQL**
+**Desenvolvedor de Software | Full Stack Developer | Especialista em Desenvolvimento Web | Bacharel em Ciência da Computação | Java | SQL / NoSQL**
 
 ### Sobre Mim
 
-Desenvolvedor Full Stack com experiência em Java, PHP, Node.js, Python e TypeScript. Especialista em APIs RESTful escaláveis, testes MVC/TDD (JUnit, pytest, Jest, PHPUnit) e ORMs como JPA, Hibernate, TypeORM, SQLAlchemy, MongoEngine e Eloquent (Laravel). Atua com servidores Linux, bancos relacionais e NoSQL, além de infraestrutura em nuvem (AWS, GCP, Azure, Oracle Cloud), Docker, Kubernetes e CI/CD. Domínio em POO, SOLID, Clean Code e frameworks como NestJS, Spring Boot, Flask, Django e FastAPI.
+Desenvolvedor Full Stack com experiência em Java, PHP, Node.js, Python e TypeScript. Especialista em APIs RESTful escaláveis, testes MVC/TDD (JUnit, pytest, Jest, PHPUnit) e ORMs como JPA, Hibernate, TypeORM, SQLAlchemy, MongoEngine e Eloquent (Laravel). Atua com servidores Linux, bancos relacionais e NoSQL, além de infraestrutura em nuvem (AWS, GCP, Azure, Oracle Cloud), Docker, Kubernetes e CI/CD. Domínio em POO, SOLID, Clean Code e frameworks como NestJS, Spring Boot, Flask e Django.
 
 <div style="text-align: left;">
 
@@ -102,7 +102,7 @@ Desenvolvedor Full Stack com experiência em Java, PHP, Node.js, Python e TypeSc
 - **Electron**
 - **Next.js**
 - **NestJS**
-- **Vite**
+- **Vue.js**
 
 ---
 
@@ -255,7 +255,7 @@ Desenvolvedor Full Stack com experiência em Java, PHP, Node.js, Python e TypeSc
 
 ## 🔧 Back-end
 
-### **Laravel (PHP)**
+### **Laravel (PHP MVC) + Eloquent**
 Framework robusto para desenvolvimento de APIs e sistemas web com estrutura elegante, alta produtividade e recursos completos.
 
 ### **Spring Boot (Java MVC) + JPA/Hibernate**
