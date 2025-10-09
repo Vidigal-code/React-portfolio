@@ -1,4 +1,5 @@
-User-agent: *
+User-Agent: *
 Allow: /
 
-Sitemap: https://yourdomain.com/sitemap.xml
+Host: https://vidigal-code.github.io/React-portfolio
+Sitemap: https://vidigal-code.github.io/React-portfolio/sitemap.xml
