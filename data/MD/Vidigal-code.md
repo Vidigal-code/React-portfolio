@@ -1,7 +1,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://vidigal-code.github.iohttps://raw.githubusercontent.com/Vidigal-code/React-portfolio/refs/heads/main/">
+  <a href="https://vidigal-code.github.io/React-portfolio/">
     <img width="650" height="350" src="https://github.com/Vidigal-code/Vidigal-Code/blob/main/GIF_2.gif?raw=true">
   </a>
 </p>
@@ -63,15 +63,15 @@
   <summary><b>💻Information</b></summary>
   </br>
 
-- > ``📲Link to my portfolio`` : { [Portfolio](https://vidigal-code.github.iohttps://raw.githubusercontent.com/Vidigal-code/React-portfolio/refs/heads/main/) }
+- > ``📲Link to my portfolio`` : { [Portfolio](https://vidigal-code.github.io/React-portfolio/) }
 
 >
 
-- > ``💾Link to my projects`` : { [Projects](https://vidigal-code.github.iohttps://raw.githubusercontent.com/Vidigal-code/React-portfolio/refs/heads/main/#projects?lang=en) }
+- > ``💾Link to my projects`` : { [Projects](https://vidigal-code.github.io/React-portfolio/#projects?lang=en) }
 
 >
 
-- > ``💪Certificates link`` : { [Certificates](https://vidigal-code.github.iohttps://raw.githubusercontent.com/Vidigal-code/React-portfolio/refs/heads/main/#courses) }
+- > ``💪Certificates link`` : { [Certificates](https://vidigal-code.github.io/React-portfolio/#courses) }
 
 >
 
