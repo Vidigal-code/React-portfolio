@@ -1,4 +1,4 @@
 :HL["/React-portfolio/_next/static/chunks/55b7eb5c9300e329.css","style"]
 :HL["/React-portfolio/_next/static/chunks/d43ab978ac5b76ce.css","style"]
 :HL["/React-portfolio/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"3aMwMnI94w7ISW-yY3P1x","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"skills","paramType":null,"paramKey":"skills","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"romrAWwWLS0VpYE0yzsej","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"skills","paramType":null,"paramKey":"skills","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
