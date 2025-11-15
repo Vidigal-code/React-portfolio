@@ -1,7 +1,7 @@
 1:"$Sreact.fragment"
-2:I[6324,["/React-portfolio/_next/static/chunks/447668e4c7850760.js","/React-portfolio/_next/static/chunks/aba1ba3b06e94ac0.js"],"ViewportBoundary"]
-4:I[6324,["/React-portfolio/_next/static/chunks/447668e4c7850760.js","/React-portfolio/_next/static/chunks/aba1ba3b06e94ac0.js"],"MetadataBoundary"]
+2:I[47090,["/React-portfolio/_next/static/chunks/0c5667f2fe08b7fd.js","/React-portfolio/_next/static/chunks/e910bee3add4daa9.js"],"ViewportBoundary"]
+4:I[47090,["/React-portfolio/_next/static/chunks/0c5667f2fe08b7fd.js","/React-portfolio/_next/static/chunks/e910bee3add4daa9.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"MnDSPYkC65rJvH9EVxGaG","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"9b51OzVAzeZ9i5hqgDw5D","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[]
