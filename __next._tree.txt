@@ -1,6 +1,6 @@
-:HL["/React-portfolio/_next/static/chunks/55b7eb5c9300e329.css","style"]
-:HL["/React-portfolio/_next/static/chunks/d43ab978ac5b76ce.css","style"]
-:HL["/React-portfolio/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/React-portfolio/_next/static/chunks/0e0cd8440908f2f7.css","style"]
-:HL["/React-portfolio/_next/static/chunks/f1f86241d694a7f1.css","style"]
-0:{"buildId":"uWxcKTJaChGySIxX60rZr","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["https://vidigal-code.github.io/React-portfolio/_next/static/chunks/55b7eb5c9300e329.css","style"]
+:HL["https://vidigal-code.github.io/React-portfolio/_next/static/chunks/d43ab978ac5b76ce.css","style"]
+:HL["https://vidigal-code.github.io/React-portfolio/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["https://vidigal-code.github.io/React-portfolio/_next/static/chunks/0e0cd8440908f2f7.css","style"]
+:HL["https://vidigal-code.github.io/React-portfolio/_next/static/chunks/f1f86241d694a7f1.css","style"]
+0:{"buildId":"BF_J-d5ZX9jiVErOxtyfM","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
