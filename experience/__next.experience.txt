@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
-2:I[90325,["/React-portfolio/_next/static/chunks/0c5667f2fe08b7fd.js","/React-portfolio/_next/static/chunks/e910bee3add4daa9.js"],"default"]
-3:I[39936,["/React-portfolio/_next/static/chunks/0c5667f2fe08b7fd.js","/React-portfolio/_next/static/chunks/e910bee3add4daa9.js"],"default"]
-0:{"buildId":"voKHCAjAIPy3uFi6_phxg","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+2:I[25907,["/React-portfolio/_next/static/chunks/e6e06cdb1ce03a9e.js","/React-portfolio/_next/static/chunks/0d44437e8ad5238a.js"],"default"]
+3:I[75980,["/React-portfolio/_next/static/chunks/e6e06cdb1ce03a9e.js","/React-portfolio/_next/static/chunks/0d44437e8ad5238a.js"],"default"]
+0:{"buildId":"eTriDMZd06SoUeyjYjfif","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
