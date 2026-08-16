@@ -8,4 +8,4 @@
 :HL["/React-portfolio/_next/static/chunks/1972d90195ecd8ee.css","style"]
 :HL["/React-portfolio/_next/static/chunks/657accaf936069f6.css","style"]
 :HL["/React-portfolio/_next/static/chunks/281eff7ff6b1b26d.css","style"]
-0:{"buildId":"tSSWwBuUPnMcx2PzI-5-t","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"links","paramType":null,"paramKey":"links","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"lCORLH9bKb7_KHCxJ317m","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"links","paramType":null,"paramKey":"links","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
