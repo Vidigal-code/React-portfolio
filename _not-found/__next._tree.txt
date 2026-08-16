@@ -1,6 +1,6 @@
-:HL["/React-portfolio/_next/static/chunks/d00c5a21678e87b8.css","style"]
+:HL["/React-portfolio/_next/static/chunks/e97993aa10274081.css","style"]
 :HL["/React-portfolio/_next/static/chunks/d43ab978ac5b76ce.css","style"]
-:HL["/React-portfolio/_next/static/chunks/6bde2bbc96324199.css","style"]
+:HL["/React-portfolio/_next/static/chunks/8a6b31bcb89bc9cb.css","style"]
 :HL["/React-portfolio/_next/static/chunks/281eff7ff6b1b26d.css","style"]
 :HL["/React-portfolio/_next/static/chunks/657accaf936069f6.css","style"]
-0:{"buildId":"UjBmTHRGIUeTuv-EMwLL1","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"oUbf5w9mVFssc0YEFYoPB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
