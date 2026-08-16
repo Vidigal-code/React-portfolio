@@ -8,7 +8,7 @@
 :HL["/React-portfolio/_next/static/chunks/57369b789d3cf226.css","style"]
 :HL["/React-portfolio/_next/static/chunks/74e85dfab7ceb35a.css","style"]
 :HL["/React-portfolio/_next/static/chunks/a647ff22b0e95404.css","style"]
-:HL["/React-portfolio/_next/static/chunks/be73781430a370ea.css","style"]
+:HL["/React-portfolio/_next/static/chunks/ffc948356f60a10d.css","style"]
 :HL["/React-portfolio/_next/static/chunks/ce3fb0f57a90592f.css","style"]
 :HL["/React-portfolio/_next/static/chunks/f1430065491da645.css","style"]
 :HL["/React-portfolio/_next/static/chunks/ec87dab9256a6192.css","style"]
@@ -21,4 +21,4 @@
 :HL["/React-portfolio/_next/static/chunks/2b22763225181c31.css","style"]
 :HL["/React-portfolio/_next/static/chunks/657accaf936069f6.css","style"]
 :HL["/React-portfolio/_next/static/chunks/281eff7ff6b1b26d.css","style"]
-0:{"buildId":"oUbf5w9mVFssc0YEFYoPB","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"tSSWwBuUPnMcx2PzI-5-t","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
