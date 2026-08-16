@@ -1,4 +1,9 @@
-:HL["/React-portfolio/_next/static/chunks/55b7eb5c9300e329.css","style"]
+:HL["/React-portfolio/_next/static/chunks/d00c5a21678e87b8.css","style"]
 :HL["/React-portfolio/_next/static/chunks/d43ab978ac5b76ce.css","style"]
+:HL["/React-portfolio/_next/static/chunks/6bde2bbc96324199.css","style"]
 :HL["/React-portfolio/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"buildId":"pQmpfnxnbtCsyi6qmWljV","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"experience","paramType":null,"paramKey":"experience","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/React-portfolio/_next/static/media/f7aa21714c1c53f8-s.p.e3544bb0.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/React-portfolio/_next/static/chunks/b99db70fce7a9abb.css","style"]
+:HL["/React-portfolio/_next/static/chunks/657accaf936069f6.css","style"]
+:HL["/React-portfolio/_next/static/chunks/281eff7ff6b1b26d.css","style"]
+0:{"buildId":"UjBmTHRGIUeTuv-EMwLL1","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"experience","paramType":null,"paramKey":"experience","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
