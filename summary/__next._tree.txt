@@ -7,7 +7,7 @@
 :HL["/React-portfolio/_next/static/chunks/74e85dfab7ceb35a.css","style"]
 :HL["/React-portfolio/_next/static/chunks/015ad5e0c09e99a0.css","style"]
 :HL["/React-portfolio/_next/static/chunks/a647ff22b0e95404.css","style"]
-:HL["/React-portfolio/_next/static/chunks/be73781430a370ea.css","style"]
+:HL["/React-portfolio/_next/static/chunks/ffc948356f60a10d.css","style"]
 :HL["/React-portfolio/_next/static/chunks/657accaf936069f6.css","style"]
 :HL["/React-portfolio/_next/static/chunks/281eff7ff6b1b26d.css","style"]
-0:{"buildId":"9A0dPrZo-_DZNWwrVqO22","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"summary","paramType":null,"paramKey":"summary","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"tSSWwBuUPnMcx2PzI-5-t","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"summary","paramType":null,"paramKey":"summary","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
