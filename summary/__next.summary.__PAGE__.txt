@@ -1,0 +1,11 @@
+1:"$Sreact.fragment"
+2:I[33449,["/React-portfolio/_next/static/chunks/b38c54a217c7a29e.js","/React-portfolio/_next/static/chunks/8c962c500d6b00f2.js","/React-portfolio/_next/static/chunks/fc1a16f15f613d56.js","/React-portfolio/_next/static/chunks/9fd114b3f78b2244.js","/React-portfolio/_next/static/chunks/ded3329d5dfac075.js","/React-portfolio/_next/static/chunks/66fb711a9ccdd5a3.js","/React-portfolio/_next/static/chunks/c8fb4ef6fdc9be9f.js","/React-portfolio/_next/static/chunks/24630450297f810b.js","/React-portfolio/_next/static/chunks/0a00d717f6a23ebe.js","/React-portfolio/_next/static/chunks/1f29c06d13978a56.js"],"default"]
+3:I[9692,["/React-portfolio/_next/static/chunks/a02168075f72a202.js","/React-portfolio/_next/static/chunks/fd8fa7f7129ad83f.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+:HL["/React-portfolio/_next/static/chunks/7f5a946386af4bde.css","style"]
+:HL["/React-portfolio/_next/static/chunks/74e85dfab7ceb35a.css","style"]
+:HL["/React-portfolio/_next/static/chunks/015ad5e0c09e99a0.css","style"]
+:HL["/React-portfolio/_next/static/chunks/a647ff22b0e95404.css","style"]
+:HL["/React-portfolio/_next/static/chunks/3c7bfba766b032e4.css","style"]
+0:{"buildId":"2ksIfRusm0WlWqw19xFbm","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","link","0",{"rel":"stylesheet","href":"/React-portfolio/_next/static/chunks/7f5a946386af4bde.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/React-portfolio/_next/static/chunks/74e85dfab7ceb35a.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/React-portfolio/_next/static/chunks/015ad5e0c09e99a0.css","precedence":"next"}],["$","link","3",{"rel":"stylesheet","href":"/React-portfolio/_next/static/chunks/a647ff22b0e95404.css","precedence":"next"}],["$","link","4",{"rel":"stylesheet","href":"/React-portfolio/_next/static/chunks/3c7bfba766b032e4.css","precedence":"next"}],["$","script","script-0",{"src":"/React-portfolio/_next/static/chunks/0a00d717f6a23ebe.js","async":true}],["$","script","script-1",{"src":"/React-portfolio/_next/static/chunks/1f29c06d13978a56.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null

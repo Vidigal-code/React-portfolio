@@ -7,4 +7,4 @@
 :HL["/React-portfolio/_next/static/chunks/a647ff22b0e95404.css","style"]
 :HL["/React-portfolio/_next/static/chunks/ef6636cabdcf7a3e.css","style"]
 :HL["/React-portfolio/_next/static/chunks/edd429dd7a822977.css","style"]
-0:{"buildId":"Azc2CXxvg3NRiPhGx3Pxi","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"experience","paramType":null,"paramKey":"experience","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+0:{"buildId":"2ksIfRusm0WlWqw19xFbm","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"experience","paramType":null,"paramKey":"experience","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
